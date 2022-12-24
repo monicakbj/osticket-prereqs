@@ -54,7 +54,7 @@ Now you must create a Resource Group and a Virtual Machine using windows 10. You
   Download Osticket and than Extract and copy the “upload” folder INTO c:\inetpub\wwwroot from your file explorer. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Type in the search menu IIS restart server so that it can update with osticket folder. Go to sites -> Default -> osTicket, on the right, click “Browse *:80. Enable extensions in the IIS
 </p>
 <img src=</p>
-<img src="https://i.imgur.com/KY4kOnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U6DX3cs.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
