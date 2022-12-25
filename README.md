@@ -51,11 +51,12 @@ Now you must create a Resource Group and a Virtual Machine using windows 10. You
 <img src="https://i.imgur.com/KY4kOnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Download Osticket and than Extract and copy the “upload” folder INTO c:\inetpub\wwwroot from your file explorer. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Type in the search menu IIS restart server so that it can update with osticket folder. Go to sites -> Default -> osTicket, on the right, click “Browse *:80. Enable extensions in the IIS
+  Download Osticket and than Extract and copy the “upload” folder INTO c:\inetpub\wwwroot from your file explorer. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Type in the search menu IIS restart server so that it can update with osticket folder. Go to sites -> Default -> osTicket, on the right, click “Browse *:80. Enable extensions in the IIS, refresh ostickect.
 </p>
-<img src=</p>
 <img src="https://i.imgur.com/RocUz3a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ Continue setting up OSticket place name in help desk and default email. Install HEidiSQL create a new session using user name Root and the password you setup.Connect to the session and create a database called “osTicket”. Click install now and set up should be complete.
+
 </p>
 <p>
